@@ -65,6 +65,19 @@
   "rsvp_link":""
   },
   {
+  "name":"Aver Lightning Talks & Start-up Fair",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"September 20th",
+  "date":"September 20 2017",
+  "time":"7:00 - 8:00 PM",
+  "location":"Caldwell 171",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Social!",
   "title_url":"",
   "link_type": 0,
@@ -74,19 +87,6 @@
   "location":"Kafe Kerouac",
   "location_url":"",
   "desc":"Come learn the basics of and how to navigate tech interviews!",
-  "rsvp":"",
-  "rsvp_link":""
-  },
-  {
-  "name":"Aver Lightning Talks",
-  "title_url":"",
-  "link_type": 0,
-  "date_string":"September 20th",
-  "date":"September 20 2017",
-  "time":"7:00 - 8:00 PM",
-  "location":"Caldwell 171",
-  "location_url":"",
-  "desc":"",
   "rsvp":"",
   "rsvp_link":""
   },
