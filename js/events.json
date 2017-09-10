@@ -52,6 +52,19 @@
   "rsvp_link":""
   },
   {
+  "name":"Social!",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"September 23rd",
+  "date":"September 23 2017",
+  "time":"TBD",
+  "location":"Kafe Kerouac",
+  "location_url":"",
+  "desc":"Come learn the basics of and how to navigate tech interviews!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"CapitalOne Tech Talk",
   "title_url":"",
   "link_type": 0,
@@ -74,19 +87,6 @@
   "location":"Caldwell 171",
   "location_url":"",
   "desc":"",
-  "rsvp":"",
-  "rsvp_link":""
-  },
-  {
-  "name":"Social!",
-  "title_url":"",
-  "link_type": 0,
-  "date_string":"September 17th",
-  "date":"September 17 2017",
-  "time":"TBD",
-  "location":"Kafe Kerouac",
-  "location_url":"",
-  "desc":"Come learn the basics of and how to navigate tech interviews!",
   "rsvp":"",
   "rsvp_link":""
   },
