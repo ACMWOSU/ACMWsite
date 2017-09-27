@@ -13,19 +13,6 @@
   "rsvp_link":""
   },
   {
-  "name":"Microsoft Luncheon: Q&A Panel with Engineers",
-  "title_url":"",
-  "link_type": 0,
-  "date_string":"September 28th",
-  "date":"September 28 2017",
-  "time":"11:00 AM - 1:00 PM",
-  "location":"Nosker House, Burgee Room",
-  "location_url":"",
-  "desc":"",
-  "rsvp":"",
-  "rsvp_link":""
-  },
-  {
   "name":"Facebook Workshop: Crushing Your Coding Interview",
   "title_url":"",
   "link_type": 0,
@@ -33,6 +20,19 @@
   "date":"September 28 2017",
   "time":"7:00 PM - 8:00 PM",
   "location":"Dreese 480",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Microsoft Luncheon: Q&A Panel with Engineers",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"September 28th",
+  "date":"September 28 2017",
+  "time":"11:00 AM - 1:00 PM",
+  "location":"Nosker House, Burgee Room",
   "location_url":"",
   "desc":"",
   "rsvp":"",
