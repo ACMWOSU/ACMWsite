@@ -13,6 +13,19 @@
   "rsvp_link":""
   },
   {
+  "name":"Google 'Ask Me Anything' Lunch",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 18th",
+  "date":"October 18 2017",
+  "time":"11:30 AM - 12:30 PM",
+  "location":"Enarson 258",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"Please RSVP here",
+  "rsvp_link":"https://docs.google.com/forms/d/e/1FAIpQLSe1UnFSKvWQgOCXZVZjyLU9osvr7IMIGviDnf3SeKCbIvK-6g/viewform"
+  },
+  {
   "name":"Facebook Workshop: Crushing Your Coding Interview",
   "title_url":"",
   "link_type": 0,
