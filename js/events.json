@@ -1,5 +1,31 @@
 [
   {
+  "name":"Featured Speaker: Selina Tobaccowala",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 24th",
+  "date":"October 24 2017",
+  "time":"1:00 - 2:00 PM",
+  "location":"Dreese 263",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Fall Picnic + OHI/O Team Formation with Brooksource",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 19th",
+  "date":"October 19 2017",
+  "time":"4:00 - 6:30 PM",
+  "location":"Dreese Lobby",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Nationwide Tech Talk",
   "title_url":"",
   "link_type": 0,
