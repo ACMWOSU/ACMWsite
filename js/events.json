@@ -1,12 +1,12 @@
 [
   {
-  "name":"Social!",
+  "name":"Social",
   "title_url":"",
   "link_type": 0,
   "date_string":"October 25th",
   "date":"October 25 2017",
   "time":"7:00 - 8:00 PM",
-  "location":"TBA",
+  "location":"TBD",
   "location_url":"",
   "desc":"",
   "rsvp":"",
@@ -32,7 +32,7 @@
   "date_string":"October 19th",
   "date":"October 19 2017",
   "time":"4:00 - 6:30 PM",
-  "location":"Dreese's Lobby",
+  "location":"Dreese Lobby",
   "location_url":"",
   "desc":"",
   "rsvp":"",
