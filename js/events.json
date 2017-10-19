@@ -1,5 +1,18 @@
 [
   {
+  "name":"Social",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"October 25th",
+  "date":"October 25 2017",
+  "time":"7:00 - 8:00 PM",
+  "location":"TBD",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Featured Speaker: Selina Tobaccowala",
   "title_url":"",
   "link_type": 0,
