@@ -1,5 +1,18 @@
 [
   {
+  "name":"Fall Crafting Event",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 1st",
+  "date":"November 1 2017",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 357",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Social",
   "title_url":"",
   "link_type": 0,
