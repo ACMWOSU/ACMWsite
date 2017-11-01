@@ -1,5 +1,31 @@
 [
   {
+  "name":"Introduction to GitHub",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 8th",
+  "date":"November 8 2017",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 357",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"WiE Dream",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 4th",
+  "date":"November 4 2017",
+  "time":"7:00 AM - 3:00 PM",
+  "location":"Knowlton Hall Second Floor",
+  "location_url":"",
+  "desc":"Contact Kirstin Boni (boni.14@osu.edu) for details.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Fall Crafting Event",
   "title_url":"",
   "link_type": 0,
