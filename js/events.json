@@ -1,5 +1,18 @@
 [
   {
+  "name":"Accenture Tech Talk",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 15th",
+  "date":"November 15 2017",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 357",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Introduction to GitHub",
   "title_url":"",
   "link_type": 0,
