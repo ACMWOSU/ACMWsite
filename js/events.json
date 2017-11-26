@@ -1,5 +1,18 @@
 [
   {
+  "name":"Black Mirror Viewing Party",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 29th",
+  "date":"November 29 2017",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 357",
+  "location_url":"",
+  "desc":"Join us at our weekly meeting where we will be viewing Black Mirror!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"OHI/O Information Session",
   "title_url":"",
   "link_type": 0,
@@ -8,8 +21,8 @@
   "time":"5:00 - 5:45 PM",
   "location":"Bolz 316",
   "location_url":"",
-  "desc":"Come to one of the two information sessions for OHI/O and learn more about the student organization that organizes HackOHI/O, MakeOHI/O, ShowOHI/O, HighschoolI/O, and more! Please RSVP",
-  "rsvp":"",
+  "desc":"Come to one of the two information sessions for OHI/O and learn more about the student organization that organizes HackOHI/O, MakeOHI/O, ShowOHI/O, HighschoolI/O, and more!",
+  "rsvp":"Please RSVP here!",
   "rsvp_link":"https://ohio-state.us11.list-manage.com/track/click?u=9984bd1eae9eb3104355b9c94&id=c72c546203&e=2665b2dae2"
   },
   {
@@ -21,8 +34,8 @@
   "time":"5:00 - 5:45 PM",
   "location":"Bolz 316",
   "location_url":"",
-  "desc":"Come to one of the two information sessions for OHI/O and learn more about the student organization that organizes HackOHI/O, MakeOHI/O, ShowOHI/O, HighschoolI/O, and more! Please RSVP",
-  "rsvp":"",
+  "desc":"Come to one of the two information sessions for OHI/O and learn more about the student organization that organizes HackOHI/O, MakeOHI/O, ShowOHI/O, HighschoolI/O, and more!",
+  "rsvp":"Please RSVP here!",
   "rsvp_link":"https://ohio-state.us11.list-manage.com/track/click?u=9984bd1eae9eb3104355b9c94&id=c72c546203&e=2665b2dae2"
   },
   {
