@@ -1,6 +1,19 @@
 [
   {
-  "name":"Black Mirror Viewing Party",
+  "name":"AI Club Westworld Viewing Party",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"November 30th",
+  "date":"November 30 2017",
+  "time":"8:30 - 9:00 PM",
+  "location":"Campbell 200",
+  "location_url":"",
+  "desc":"The AI Club is is holding a viewing party for the first episode of Westworld!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Black Mirror Movie Night!",
   "title_url":"",
   "link_type": 0,
   "date_string":"November 29th",
@@ -39,7 +52,7 @@
   "rsvp_link":"https://ohio-state.us11.list-manage.com/track/click?u=9984bd1eae9eb3104355b9c94&id=c72c546203&e=2665b2dae2"
   },
   {
-  "name":"LinkedIn or LeftOut Workshop",
+  "name":"Workshop: LinkedIn or LeftOut",
   "title_url":"",
   "link_type": 0,
   "date_string":"November 15th",
@@ -78,7 +91,7 @@
   "rsvp_link":""
   },
   {
-  "name":"Fall Crafting Event",
+  "name":"Fall Crafting Social",
   "title_url":"",
   "link_type": 0,
   "date_string":"November 1st",
@@ -91,7 +104,7 @@
   "rsvp_link":""
   },
   {
-  "name":"Social",
+  "name":"Cookie Social!",
   "title_url":"",
   "link_type": 0,
   "date_string":"October 25th",
