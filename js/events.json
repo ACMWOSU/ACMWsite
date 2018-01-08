@@ -1,5 +1,57 @@
 [
   {
+  "name":"Brooksource Event",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 24th",
+  "date":"January 24 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"TBA",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Capital One: Cloud Providers",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 23rd",
+  "date":"January 23 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"TBA",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Spring Involvement Fair",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 18th",
+  "date":"January 18 2018",
+  "time":"4:00 - 7:00 PM",
+  "location":"Ohio Union",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Spring Kickoff",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"January 17th",
+  "date":"January 17 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"ACMW is holding our first event of the semester!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Blockchain Club Info Session",
   "title_url":"",
   "link_type": 0,
