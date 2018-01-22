@@ -1,6 +1,6 @@
 [
   {
-  "name":"Caterpillar Tech Talk",
+  "name":"Caterpillar: Data Analytics",
   "title_url":"",
   "link_type": 0,
   "date_string":"March 28th",
@@ -39,6 +39,19 @@
   "rsvp_link":""
   },
   {
+  "name":"Quiz Bowl",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"Februrary 21st",
+  "date":"Februruary 21 2018",
+  "time":"6:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"Join us for our annual Quiz Bowl!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Harris: Company Culture",
   "title_url":"",
   "link_type": 0,
@@ -73,7 +86,7 @@
   "time":"7:00 - 8:00 PM",
   "location":"TBA",
   "location_url":"",
-  "desc":"Join us for an event with Capital One, where we will be discussing Cloud Providers.",
+  "desc":"Join ACM-W and Capital One for a tech talk on Cloud Providers. Engineers from Capital One will go over how Capital One utilizes the Cloud. They will also give an introduction on cloud providers and go over some basics.",
   "rsvp":"",
   "rsvp_link":""
   },
