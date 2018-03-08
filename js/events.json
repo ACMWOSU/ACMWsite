@@ -1,5 +1,18 @@
 [
   {
+  "name":"CapTech",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 4th",
+  "date":"April 4 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Caterpillar: Data Analytics",
   "title_url":"",
   "link_type": 0,
@@ -9,6 +22,19 @@
   "location":"Baker 198",
   "location_url":"",
   "desc":"Caterpillar will discuss data analytics with us this week.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Facebook",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 21st",
+  "date":"March 21 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"Buckeye alumni from Facebook will visit us for this week's event!",
   "rsvp":"",
   "rsvp_link":""
   },
@@ -39,6 +65,32 @@
   "rsvp_link":""
   },
   {
+  "name":"Northrop Grumman: Evening in Engineering",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 22nd",
+  "date":"February 22 2018",
+  "time":"6:00 - 8:00 PM",
+  "location":"Baker 188",
+  "location_url":"",
+  "desc":"ACM-W and other organizations with Northrop Grumman will host an Evening in Engineering event, where engineers from Northrop Grumman will giving tech talks and network with students.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Google Luncheon",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 22nd",
+  "date":"February 22 2018",
+  "time":"12:30 - 1:30 PM",
+  "location":"Enarson 254",
+  "location_url":"",
+  "desc":"Googler Buckeyes will share anecdotes and best practices for your upcoming internship.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"Quiz Bowl",
   "title_url":"",
   "link_type": 0,
@@ -48,6 +100,19 @@
   "location":"Baker 198",
   "location_url":"",
   "desc":"Join us for our annual Quiz Bowl!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Palentine's Day Social",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"February 14th",
+  "date":"February 14 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"Join us for our Palentine's Day social, where we will be making friendship bracelets and eating Insomnia cookies.",
   "rsvp":"",
   "rsvp_link":""
   },
