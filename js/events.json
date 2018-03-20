@@ -13,7 +13,7 @@
   "rsvp_link":""
   },
   {
-  "name":"Caterpillar: Data Analytics",
+  "name":"GHC + Exec Board Info Session",
   "title_url":"",
   "link_type": 0,
   "date_string":"March 28th",
@@ -21,18 +21,31 @@
   "time":"7:00 - 8:00 PM",
   "location":"Baker 198",
   "location_url":"",
+  "desc":"",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"Caterpillar: Data Analytics",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 28th",
+  "date":"March 28 2018",
+  "time":"5:45 - 6:45 PM",
+  "location":"Baker 198",
+  "location_url":"",
   "desc":"Caterpillar will discuss data analytics with us this week.",
   "rsvp":"",
   "rsvp_link":""
   },
   {
-  "name":"Facebook",
+  "name":"Facebook: Engineer Panel",
   "title_url":"",
   "link_type": 0,
   "date_string":"March 21st",
   "date":"March 21 2018",
   "time":"7:00 - 8:00 PM",
-  "location":"Baker 198",
+  "location":"Dreese 113",
   "location_url":"",
   "desc":"Buckeye alumni from Facebook will visit us for this week's event!",
   "rsvp":"",
