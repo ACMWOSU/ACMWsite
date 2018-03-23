@@ -33,12 +33,17 @@ function jsonRetrieveError(err){
 function populateEvents(EventsJSON){
   var today = new Date();
   today.setHours(0,0,0,0); //Necessary to make same day events show up
+  var upcoming = document.getElementById('upcoming');
+  var past = document.getElementById('past');
+
+  upcoming.innerHTML = ""
+  past.innerHTML = ""
+  
   for (var i=0; i < EventsJSON.length; i++){  //Loop through events
     var eventElement = newEvent(EventsJSON[i])
     var eventDate = new Date(EventsJSON[i]['date']);
     eventDate.setHours(0,0,0,0);
-    var upcoming = document.getElementById('upcoming');
-    var past = document.getElementById('past');
+
     if(eventDate.getTime() < today.getTime()){
       past.appendChild(eventElement);
     } else {
