@@ -13,6 +13,19 @@
   "rsvp_link":""
   },
   {
+  "name":"buck-i-code",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 31st",
+  "date":"March 31 2018",
+  "time":"10:00 AM - 2:00 PM",
+  "location":"Dreese Labs",
+  "location_url":"",
+  "desc":"Young girls intrested in computer science will learn coding at our annual buck-i-code event!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"GHC + Exec Board Info Session",
   "title_url":"",
   "link_type": 0,
@@ -35,6 +48,19 @@
   "location":"Schoenbaum 220",
   "location_url":"",
   "desc":"Caterpillar will discuss data analytics with us this week.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"high school i/o",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"March 24th",
+  "date":"March 24 2018",
+  "time":"10:00 AM - 8:00 PM",
+  "location":"PAST Foundation",
+  "location_url":"",
+  "desc":"OHI/O's annual high school hackathon! For 10 hours, high schoolers will create something amazing.",
   "rsvp":"",
   "rsvp_link":""
   },
