@@ -130,6 +130,9 @@ h2.slogan {
   .fa.mobile-nav {
     display: block;
   }
+  .section_one {
+    margin-top: 24pt;
+  }
   .section_two {
     margin-top: calc(70vh + 54pt)
   }
@@ -292,6 +295,16 @@ footer {
 	margin: 0;
 	margin-top:5px;
 	margin-left: 20px;
+}
+
+.loading {
+  animation: fade 1s ease-in-out 0s infinite alternate;
+  font-size: 1.3em;
+}
+
+@keyframes fade {
+  0% { opacity: 1; }
+  100% { opacity: 0.3; }
 }
 
 /********* About *********/
