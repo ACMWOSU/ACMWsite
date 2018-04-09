@@ -1,5 +1,44 @@
 [
   {
+  "name":"Study Session",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 18th",
+  "date":"April 18 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"Study with us for finals!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"ShowOHI/O",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 13th",
+  "date":"April 13 2018",
+  "time":"7:00 - 9:30 PM",
+  "location":"The STEAM Factory",
+  "location_url":"https://www.google.com/maps?q=the+steam+factory&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjy8M7QgK7aAhXRhOAKHb3LD1EQ_AUICigB",
+  "desc":"This week, we will be hosting a lean-in session. We will discuss ways to accept challenges and take risks in the workplace.",
+  "rsvp":"Get your ticket!",
+  "rsvp_link":"http://hack.osu.edu/show/2018/"
+  },
+  {
+  "name":"Lean-In",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"April 11th",
+  "date":"April 11 2018",
+  "time":"7:00 - 8:00 PM",
+  "location":"Baker 198",
+  "location_url":"",
+  "desc":"This week, we will be hosting a lean-in session. We will discuss ways to accept challenges and take risks in the workplace.",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
   "name":"CapTech",
   "title_url":"",
   "link_type": 0,
