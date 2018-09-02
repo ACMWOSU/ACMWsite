@@ -104,15 +104,28 @@
   "rsvp_link":""
   },
   {
-  "name":"ACM-W Guest Speaker + Networking",
+  "name":"Lean In Session",
   "title_url":"",
   "link_type": 0,
   "date_string":"September 6th",
   "date":"September 6 2018",
-  "time":"TBD",
-  "location":"TBD",
+  "time":"7:00 - 8:00 PM",
+  "location":"Dreese 298",
   "location_url":"",
-  "desc":"",
+  "desc":"Join us for our follow up to our Guest Speaker Dr. Cheryl A. Swanier Lean In session!",
+  "rsvp":"",
+  "rsvp_link":""
+  },
+  {
+  "name":"ACM-W Guest Speaker Dr. Cheryl A. Swanier",
+  "title_url":"",
+  "link_type": 0,
+  "date_string":"September 6th",
+  "date":"September 6 2018",
+  "time":"4:00 - 5:00 PM",
+  "location":"Dreese 480",
+  "location_url":"",
+  "desc":"Join us for our inaugural Guest Speaker in welcoming Dr. Cheryl A. Swanier.",
   "rsvp":"",
   "rsvp_link":""
   },
@@ -130,15 +143,15 @@
   "rsvp_link":""
   },
   {
-  "name":"Google Luncheon",
+  "name":"Google Luncheon: Intro to Go",
   "title_url":"",
   "link_type": 0,
   "date_string":"September 5th",
   "date":"September 5 2018",
-  "time":"11:00 AM - 1:00 PM",
-  "location":"TBD",
+  "time":"11:30 AM - 12:30 PM",
+  "location":"Houston House Grove Room",
   "location_url":"",
-  "desc":"Enjoy a lunch and talk with employees from Google!",
+  "desc":"Enjoy a lunch and learn with employees from Google! We will be doing a workshop on the language Go!",
   "rsvp":"",
   "rsvp_link":""
   },
